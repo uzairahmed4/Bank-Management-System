@@ -8,3 +8,10 @@ This Python-based Bank Management System is designed to facilitate basic banking
 - Deposit, withdraw, and transfer funds between accounts.
 - Manage branch information and employee details.
 - Grant loans to customers and track loan repayments.
+
+## License
+This project is licensed under the [MIT License](./LICENSE.txt).
+
+## Contact
+For any questions, feedback, or collaborations, feel free to reach out:
+- Email: uzairahmedrak@gmail.com
